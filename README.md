@@ -1,6 +1,18 @@
 # CPU-Simulation-in-Java
 This project is a simplified single-cycle CPU simulator written in Java for an academic computer organization course. The simulation models the core functionality of a basic MIPS processor and demonstrates how machine instructions are executed at the hardware level.
 
+# Files Included
+- ALUControl.java (instructor provided)
+  - Represents the ALU control bits
+- CPUControl.java (instructor provided)
+  - Represents the CPU control bits
+- CPUMemory.java (instructor provided)
+  - Simulates CPU memory
+- CPUSimulation.java (my code)
+  - Executes the CPU
+- MemResult.java (instructor provided)
+  - Stores the result from memory
+
 # Project Overview
 - Decodes and executes 32-bit MIPS instructions
 - Implements key components of the datapath:
