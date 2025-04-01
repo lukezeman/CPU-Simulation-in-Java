@@ -4,12 +4,15 @@ This project is a simplified single-cycle CPU simulator written in Java for an a
 # Project Overview
 - Decodes and executes 32-bit MIPS instructions
 - Implements key components of the datapath:
+
 - Instruction decoding
 - ALU operation and control
 - Memory access
 - Register writeback
 - Program Counter updates
+
 - Supports both R-type and I-type instructions including:
+
 - add, sub, and, or, xor, sll, slt
 - addi, slti, andi, lui
 - lw, sw, beq, j
