@@ -1,3 +1,5 @@
+// Instructor provided
+
 public class CPUControl {
     
     // THESE ARE THE REAL CONTROL BITS
