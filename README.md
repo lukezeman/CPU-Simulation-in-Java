@@ -13,7 +13,7 @@ This project is a simplified single-cycle CPU simulator written in Java for an a
   - add, sub, and, or, xor, sll, slt
   - addi, slti, andi, lui
   - lw, sw, beq, j
-  - 
+
 # How It Works
 1. Takes a 32-bit instruction and extracts fields like opcode, registers, and immediates
 2. Determines the instruction type and sets control signals accordingly
