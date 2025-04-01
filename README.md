@@ -27,3 +27,7 @@ This project is a simplified single-cycle CPU simulator written in Java for an a
 - Control signal generation
 - Single-cycle CPU operation modeling
 - Data flow and register/memory updates
+
+-----------------------
+
+Note: This project was tested using instructor-given test cases.
